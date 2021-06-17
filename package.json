@@ -1,0 +1,22 @@
+{
+  "name": "awesome-chat",
+  "version": "1.0.0",
+  "description": "chuyenmc app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuyenvn92/awesome-chat.git"
+  },
+  "author": "chuyenmc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chuyenvn92/awesome-chat/issues"
+  },
+  "homepage": "https://github.com/chuyenvn92/awesome-chat#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
