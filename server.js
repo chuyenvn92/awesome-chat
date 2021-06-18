@@ -10,4 +10,5 @@ app.get("/helloworld", (req, res) => {
 
 app.listen(port,hostname, () => {
     console.log(`Hello Công Chuyên, I'm running at ${hostname}:${port}/`)
+    console.log(`Check new git account `)
 });
